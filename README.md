@@ -2,6 +2,8 @@
 
 A branded Python REPL for Termux, custom commands, persistent history, tab-completion, and the real Python `InteractiveConsole` underneath.
 
+![Aayush REPL Banner](assets/REPL.jpg)
+
 ## Installation (Termux)
 
 Copy-paste one line at a time, in this exact order. No file download needed — this pulls straight from GitHub.
