@@ -21,10 +21,6 @@ pkg install python -y
 ```
 
 ```bash
-pkg install python-readline -y
-```
-
-```bash
 cd ~
 ```
 
@@ -46,18 +42,6 @@ bash install.sh
 
 ```bash
 aayush-repl
-```
-
-## Run it again later
-
-```bash
-aayush-repl
-```
-
-## Update to the latest version later
-
-```bash
-cd ~/Aayush-Repl && git pull && bash install.sh
 ```
 
 ## Commands
