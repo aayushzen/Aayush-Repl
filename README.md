@@ -1,6 +1,6 @@
-# Aayush REPL
+# REPL BY AAYUSH
 
-A branded Python REPL for Termux with an Aayush banner, custom commands, persistent history, tab-completion, and the real Python `InteractiveConsole` underneath.
+A branded Python REPL for Termux, custom commands, persistent history, tab-completion, and the real Python `InteractiveConsole` underneath.
 
 ## Installation (Termux)
 
@@ -72,7 +72,3 @@ Everything else is handled by Python itself, including multiline statements, fun
 - Colored (red) tracebacks and syntax errors
 - `exit()` / `quit()` call form works, not just the bare word
 - Typing a variable named `history`, `exit`, `quit`, etc. correctly shows your variable, not the built-in command
-
-## Author
-
-Aayush
