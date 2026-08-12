@@ -1,3 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/bash
-SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
-exec python3 "$SCRIPT_DIR/aayush_repl.py" "$@"
