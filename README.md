@@ -45,6 +45,8 @@ aayush-repl
 ```
 
 ## Commands
+![Aayush REPL Banner](assets/commands.jpg)
+
 
 `help` `banner` `clear` (alias `cls`) `about` `version` `python` `history` `exit` `quit`
 
