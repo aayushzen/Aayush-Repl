@@ -1,6 +1,6 @@
 # REPL BY AAYUSH
 
-A branded Python REPL for Termux, custom commands, persistent history, tab-completion, and the real Python `InteractiveConsole` underneath.
+A branded Python REPL for Termux, Linux And MAC OS custom commands, persistent history, tab-completion, and the real Python `InteractiveConsole` underneath.
 
 ![Aayush REPL Banner](assets/REPL.jpg)
 
